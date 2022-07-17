@@ -11,8 +11,8 @@ function Header() {
             <img src={logo} alt="DSMeta" />
             <h1>DSMeta</h1>
             <p>
-              Desenvolvido por
-              <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+              Desenvolvido por Edenio Oliveira Durante a Semana Spring React
+              <a href="https://about.me/edenio">Sobre Edenio Oliveira</a>
             </p>
         </div>
     </header>
