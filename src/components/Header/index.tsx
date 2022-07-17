@@ -11,8 +11,7 @@ function Header() {
             <img src={logo} alt="DSMeta" />
             <h1>DSMeta</h1>
             <p>
-              Desenvolvido por Edenio Oliveira Durante a Semana Spring React
-              <a href="https://about.me/edenio">Sobre Edenio Oliveira</a>
+              <a href="https://github.com/edenio">Desenvolvido por Edenio Oliveira Durante a Semana Spring React</a>
             </p>
         </div>
     </header>
